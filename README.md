@@ -1,4 +1,4 @@
 # AplikasiTaskManager
-Nama: Teguh Ikhtiar Rhamdanu
-NIM: D121201067
+Nama: Teguh Ikhtiar Rhamdanu\n
+NIM: D121201067\n
 Tugas Mobile
