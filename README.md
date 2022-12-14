@@ -1,4 +1,4 @@
-# AplikasiTaskManager
+# AplikasiTaskManagement
 Nama: Teguh Ikhtiar Rhamdanu
 
 NIM: D121201067
